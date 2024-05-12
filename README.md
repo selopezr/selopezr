@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on simulating the behaviour of our main water tanks at my job
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on whatever related to drinking water and other production processes
+- 🤔 I’m looking for help with github, machine learning
+- 💬 Ask me about drinking water treatment processes
+- 📫 How to reach me: selopezr@yahoo.com
+- ⚡ Fun fact: COVID-19 taught me that you can be the best in producing your thing, but if you don't know how to sell it, it's like you don't produce anything.
